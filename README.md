@@ -1,5 +1,6 @@
 # Amor-Fraterno
 
+Nós usamos 'false' para manter os arquivos css e html separados no arquivo angular.json
 Um parágrafo da descrição do projeto vai aqui
 
 🚀 Começando
